@@ -12,6 +12,7 @@
 		6B7D1CA91CCB9CD4007375A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B7D1CA71CCB9CD4007375A5 /* Main.storyboard */; };
 		6B7D1CAB1CCB9CD4007375A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B7D1CAA1CCB9CD4007375A5 /* Assets.xcassets */; };
 		6B7D1CAE1CCB9CD4007375A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B7D1CAC1CCB9CD4007375A5 /* LaunchScreen.storyboard */; };
+		6B7D1CB61CCBA120007375A5 /* Icons 2 in Resources */ = {isa = PBXBuildFile; fileRef = 6B7D1CB51CCBA120007375A5 /* Icons 2 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6B7D1CAA1CCB9CD4007375A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6B7D1CAD1CCB9CD4007375A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B7D1CAF1CCB9CD4007375A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B7D1CB51CCBA120007375A5 /* Icons 2 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Icons 2"; path = "../../../../Downloads/Icons 2"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				6B7D1CAA1CCB9CD4007375A5 /* Assets.xcassets */,
 				6B7D1CAC1CCB9CD4007375A5 /* LaunchScreen.storyboard */,
 				6B7D1CAF1CCB9CD4007375A5 /* Info.plist */,
+				6B7D1CB51CCBA120007375A5 /* Icons 2 */,
 			);
 			path = InteractiveStory;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B7D1CAE1CCB9CD4007375A5 /* LaunchScreen.storyboard in Resources */,
+				6B7D1CB61CCBA120007375A5 /* Icons 2 in Resources */,
 				6B7D1CAB1CCB9CD4007375A5 /* Assets.xcassets in Resources */,
 				6B7D1CA91CCB9CD4007375A5 /* Main.storyboard in Resources */,
 			);
