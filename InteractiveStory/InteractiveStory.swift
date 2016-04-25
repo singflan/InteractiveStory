@@ -78,13 +78,14 @@ extension Page {
             firstChoice = (title, page)
         case (.Some, .None):
             secondChoice = (title, page)
-            
+        }
         return page
     }
+    
 }
 
 struct Adventure {
-    static var storyAdventure: Page {
+    static var story: Page {
         let returnTrip = Page(story: .ReturnTrip)
         let touchDown = returnTrip.addChoice("Stop and Investigate", story: .TouchDown)
         let homeward = returnTrip.addChoice("Continue Home to Earth", story: .Homeward)
